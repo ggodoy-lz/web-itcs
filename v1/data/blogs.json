@@ -1,0 +1,47 @@
+[
+  {
+    "id": "xdr-nueva-era-ciberseguridad",
+    "title": "¿Por qué su empresa necesita XDR? La nueva era de la ciberseguridad",
+    "slug": "xdr-nueva-era-ciberseguridad",
+    "excerpt": "Las amenazas cibernéticas evolucionan a diario. El XDR de Sophos unifica la protección de endpoints, redes y correo en una sola plataforma con inteligencia artificial.",
+    "category": "Ciberseguridad",
+    "author": "Equipo iTCS",
+    "image": "/blog/blog-ciberseguridad.jpg",
+    "date": "2026-03-10",
+    "readTime": "4 min",
+    "content": "<p>Las amenazas cibernéticas evolucionan a diario. El XDR de Sophos unifica la protección de endpoints, redes y correo en una sola plataforma con inteligencia artificial.</p><p>En iTCS S.A. llevamos más de 20 años acompañando a empresas paraguayas en su transformación digital. Contactanos para más información.</p>",
+    "status": "draft",
+    "createdAt": "2026-03-10",
+    "updatedAt": "2026-04-16"
+  },
+  {
+    "id": "backup-veeam-proteja-datos",
+    "title": "Backup inteligente con Veeam: proteja sus datos críticos en 2026",
+    "slug": "backup-veeam-proteja-datos",
+    "excerpt": "Una estrategia de backup robusta es la primera línea de defensa ante ransomware. Conozca cómo Veeam Backup & Replication protege entornos físicos, virtuales y cloud.",
+    "category": "Infraestructura IT",
+    "author": "Equipo iTCS",
+    "image": "/blog/blog-backup.jpg",
+    "date": "2026-02-28",
+    "readTime": "5 min",
+    "content": "<p>Una estrategia de backup robusta es la primera línea de defensa ante ransomware. Conozca cómo Veeam Backup & Replication protege entornos físicos, virtuales y cloud.</p><p>En iTCS S.A. llevamos más de 20 años acompañando a empresas paraguayas en su transformación digital. Contactanos para más información.</p>",
+    "status": "published",
+    "createdAt": "2026-02-28",
+    "updatedAt": "2026-02-28"
+  },
+  {
+    "id": "redes-wifi-aruba-empresas",
+    "title": "Redes WiFi empresariales: por qué Aruba lidera en entornos de misión crítica",
+    "slug": "redes-wifi-aruba-empresas",
+    "excerpt": "Después de implementar más de 50 proyectos de red inalámbrica en Paraguay, compartimos por qué Aruba Networks es la elección de hospitales, universidades y bancos.",
+    "category": "Networking",
+    "author": "Equipo iTCS",
+    "image": "/blog/blog-networking.jpg",
+    "date": "2026-02-15",
+    "readTime": "4 min",
+    "content": "<p>Después de implementar más de 50 proyectos de red inalámbrica en Paraguay, compartimos por qué Aruba Networks es la elección de hospitales, universidades y bancos.</p><p>En iTCS S.A. llevamos más de 20 años acompañando a empresas paraguayas en su transformación digital. Contactanos para más información.</p>",
+    "status": "published",
+    "createdAt": "2026-02-15",
+    "updatedAt": "2026-02-15"
+  }
+]
