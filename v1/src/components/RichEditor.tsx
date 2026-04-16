@@ -14,6 +14,7 @@ export default function RichEditor({ value, onChange }: RichEditorProps) {
 
   return (
     <Editor
+      licenseKey="gpl"
       tinymceScriptSrc="/tinymce/tinymce.min.js"
       onInit={(_evt, editor) => {
         editorRef.current = editor
@@ -48,7 +49,6 @@ export default function RichEditor({ value, onChange }: RichEditorProps) {
         `,
         branding: false,
         promotion: false,
-        license_key: 'gpl',
       }}
     />
   )

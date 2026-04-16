@@ -72,7 +72,10 @@ export default function Navbar() {
     timeoutRef.current = setTimeout(() => setDropdown(null), 150)
   }
 
-  const dropdownData: Record<string, typeof productLinks> = {
+  const dropdownData: Record<
+    'products' | 'services' | 'company',
+    Array<{ name: string; href: string; desc?: string }>
+  > = {
     products: productLinks,
     services: serviceLinks,
     company: companyLinks,
